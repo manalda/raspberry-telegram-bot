@@ -1,3 +1,3 @@
 #!/bin/bash
 cd ..
-/usr/bin/python3 ${BOT_PATH}bot.py &
+/usr/bin/python3 bot.py &
